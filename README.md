@@ -8,7 +8,7 @@ Maven Version: 3.5.0
 Tomcat Version: Apache Tomcat 7.0
 
 Libraries: Will be downloaded automatically by Maven while running 'mvn clean install' on project
-``
+```
 M2_REPO/junit/junit/4.11/junit-4.11.jar
 M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
 M2_REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
@@ -19,7 +19,7 @@ M2_REPO/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
 M2_REPO/org/json/json/20090211/json-20090211.jar
 M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar
 M2_REPO/com/restfb/restfb/2.0.0-rc.2/restfb-2.0.0-rc.2.jar
-``
+```
 ----------------------------------------
 
 
